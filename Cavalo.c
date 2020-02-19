@@ -1,7 +1,11 @@
 /*
-Programa do passo do cavalo
+Programa do passo do cavalo.</br>
 Dada uma posição no tabuleiro, o cavalo deve percorrer todas
 as 64 casas sem repetir nenhuma.
+
+Compilar:
+gcc cavalo.c -o cavalo
+Digite uma posicao inicial entre {0 0} e {7 7}
 */
 #include <stdio.h>
 
